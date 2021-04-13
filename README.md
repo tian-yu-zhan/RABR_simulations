@@ -1,3 +1,5 @@
+``A practical Response Adaptive Block Randomization (RABR) design with analytic type I error protection''
+
 1. The R code and simulation results are saved at “simulation_continuous_endpoints” folder for Section 5, and at “case_study_binary_endpoints” for Section 6. One may revise the directory path in each R file. Please keep the “results” folder and its “plot_data” subfolder in the default structure to save files properly.
 
 2. To replicate Section 5 simulation studies
