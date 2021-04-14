@@ -8,7 +8,7 @@
 
     B. In the “simulation_continuous_endpoints” folder, source “RAR_un_round_3_power.r” file to generate results for Table 2 of power and Table 3 of ASN.
 
-    C. After generating results from Step B, can source “RAR_un_table.r” file to generate Figure 2.
+    C. After generating results from Step B, source “RAR_un_table.r” file to generate Figure 2.
 
 3. To replicate Section 6 case study
 
